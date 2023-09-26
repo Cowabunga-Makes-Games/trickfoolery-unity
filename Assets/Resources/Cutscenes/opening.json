@@ -1,0 +1,21 @@
+{
+  "name": "opening",
+  "pages": [
+    {
+      "image": "Intro_1",
+      "caption": "Here we see Tom in his natural state: eating pizza on the couch and watching a late-night soap opera."
+    },
+    {
+      "image": "Intro_1",
+      "caption": "This is an average Saturday night for Tom."
+    },
+    {
+      "image": "Intro_2",
+      "caption": "Suddenly, the room flashes a brilliant blue as Tom and his pizza begin to float!"
+    },
+    {
+      "image": "Intro_3",
+      "caption": "Pulled through the night sky, Tom realizes that this is no average Saturday night..."
+    }
+  ]
+}

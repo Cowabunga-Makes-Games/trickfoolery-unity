@@ -1,0 +1,59 @@
+{
+  "scenes": [
+    {
+      "sceneName": "intro",
+      "lines": [
+        {
+          "name": "Commentator",
+          "text": "Time for another display of unmatched skill from Nuck Chorris!"
+        },
+        {
+          "name": "Tom",
+          "text": "My name is TOM!"
+        },
+        {
+          "name": "Commentator",
+          "text": "Anyways, you got any more special tricks up your sleeve?"
+        },
+        {
+          "name": "Commentator",
+          "text": "I've heard humans can \"bust a move\" by pressing [X]!"
+        },
+        {
+          "name": "Commentator",
+          "text": "It'll sure catch our attention - and piss off some of our fighters..."
+        },
+        {
+          "name": "Commentator",
+          "text": "... but you can take the heat, right?"
+        }
+      ]
+    },
+    {
+      "sceneName": "onWin",
+      "lines": [
+        {
+          "name": "Commentator",
+          "text": "What moves! What thrills!!!"
+        },
+        {
+          "name": "Tom",
+          "text": "Can I please leave now?"
+        },
+        {
+          "name": "Commentator",
+          "text": "Leave? Surely not - onto the next arena! Your adoring fans await!"
+        }
+      ]
+    },
+    {
+      "sceneName": "onLoss",
+      "lines": [
+        {
+          "name": "Commentator",
+          "text": "You can do better than that! We believe in you!"
+        }
+      ]
+    }
+  ]
+}

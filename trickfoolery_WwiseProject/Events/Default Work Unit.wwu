@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{295D20A7-69A3-4172-BF5E-BF00E33887A1}" SchemaVersion="110">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{295D20A7-69A3-4172-BF5E-BF00E33887A1}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="Play_sfx_player_dash" ID="{D6F8BF24-B6D5-4FEA-AC6B-3CEC97B0DDC4}">
+					<ChildrenList>
+						<Action Name="" ID="{F1F2411A-FCE4-49C9-9394-96BCC7F768CF}" ShortID="387076822">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="sfx_player_dash" ID="{9D523CE2-EABD-4764-845B-21914B795FE8}" WorkUnitID="{5A323E93-18E1-483A-9D57-69701F8E5EEE}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_sfx_player_death" ID="{CAC80460-81AC-420B-AD88-E8FA18AC9974}">
+					<ChildrenList>
+						<Action Name="" ID="{9F99C555-61C9-43B5-BB9C-B111AA826A11}" ShortID="39046243">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="sfx_player_death" ID="{D3BAA8FC-AF2B-477C-979E-65BAB2F7658C}" WorkUnitID="{5A323E93-18E1-483A-9D57-69701F8E5EEE}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_sfx_player_hurt" ID="{F2D8E87D-016C-4DA6-8E62-4CD589790A37}">
+					<ChildrenList>
+						<Action Name="" ID="{278A9C8B-64E0-4F9E-AE81-9FA261117BBD}" ShortID="33857014">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="sfx_player_hurt" ID="{48FF277D-9B36-4838-A00C-76AF1EE31B6A}" WorkUnitID="{5A323E93-18E1-483A-9D57-69701F8E5EEE}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_sfx_charger_death" ID="{63384843-A4A4-44C3-AED2-9CDA3A9431A5}">
+					<ChildrenList>
+						<Action Name="" ID="{3F7EF837-AF57-44FE-9E70-66E3D8FD0663}" ShortID="221122887">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="sfx_charger_death" ID="{F6E8B5E4-2060-478F-A9DC-6D9EC9ABE079}" WorkUnitID="{5A323E93-18E1-483A-9D57-69701F8E5EEE}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_sfx_select" ID="{D9480393-0FF0-4478-941E-C2F83A21C8BD}">
+					<ChildrenList>
+						<Action Name="" ID="{59DD0D3E-4949-4A84-AE18-A5AA81CF587B}" ShortID="630119901">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="sfx_select" ID="{D966C5D9-0D4D-4771-A225-139EA81D0BFE}" WorkUnitID="{5A323E93-18E1-483A-9D57-69701F8E5EEE}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_sfx_confirm" ID="{69F3C602-D088-4702-A2C0-78D74E58ADF3}">
+					<ChildrenList>
+						<Action Name="" ID="{3C5C835E-F2D2-44EE-BFDA-D2E159403025}" ShortID="158127787">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="sfx_confirm" ID="{C2341D38-B3B1-4918-8B1A-3034B89826C0}" WorkUnitID="{5A323E93-18E1-483A-9D57-69701F8E5EEE}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_sfx_pause" ID="{1228DA1E-31A1-49A3-8418-61751A909CFE}">
+					<ChildrenList>
+						<Action Name="" ID="{7F36C44F-389B-4F0C-B602-5F947FECAF1E}" ShortID="543485034">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="sfx_pause" ID="{AB0C5768-8C59-4703-BE72-224D3F33DC93}" WorkUnitID="{5A323E93-18E1-483A-9D57-69701F8E5EEE}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_sfx_unpause" ID="{EF55EFFC-D9BF-4914-B45F-C34160708C30}">
+					<ChildrenList>
+						<Action Name="" ID="{74D6BEAE-4820-4D11-A05D-ACEEA16F157D}" ShortID="184047714">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="sfx_unpause" ID="{FEB32848-1828-435D-AE74-EACE26FCE690}" WorkUnitID="{5A323E93-18E1-483A-9D57-69701F8E5EEE}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_mus_Trickfoolery_222bpm" ID="{957ED87C-54CD-4A6B-878A-25F81372D716}">
+					<ChildrenList>
+						<Action Name="" ID="{4AE96F1E-6019-4AF0-BA34-5D9B37AA9E09}" ShortID="255334294">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="mus_trickfoolery_222bpm" ID="{B37367AF-76B6-4A5F-9DCF-A99818A4C5D4}" WorkUnitID="{5A323E93-18E1-483A-9D57-69701F8E5EEE}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_sfx_groovy" ID="{7FB8863C-987C-4F96-A523-14BA0486137B}">
+					<ChildrenList>
+						<Action Name="" ID="{366030EB-C315-4F4C-B962-358D913860A6}" ShortID="979910823">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="sfx_groovy" ID="{E31E9341-A727-40D7-804B-47D9AFA325C0}" WorkUnitID="{5A323E93-18E1-483A-9D57-69701F8E5EEE}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_sfx_bodacious" ID="{E0219A8E-A45F-4FCC-A81E-C861E1FF431B}">
+					<ChildrenList>
+						<Action Name="" ID="{01AAE687-F170-4FDE-B72A-38BD82A344BE}" ShortID="411300101">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="sfx_bodacious" ID="{5E753582-48CA-4076-B866-92F48C3DE078}" WorkUnitID="{5A323E93-18E1-483A-9D57-69701F8E5EEE}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_sfx_radical" ID="{1919A5EA-83D5-4AF2-985F-A98AA5CEA51D}">
+					<ChildrenList>
+						<Action Name="" ID="{5D477147-7531-4BFA-8D50-A0A1DA44A633}" ShortID="401759640">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="sfx_radical" ID="{5BDBA9EE-EA72-4061-BCB3-E1640C72C496}" WorkUnitID="{5A323E93-18E1-483A-9D57-69701F8E5EEE}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Stop_mus_Trickfoolery_222bpm" ID="{103A468D-C1A5-4619-8F4C-E88DFD668A3C}">
+					<ChildrenList>
+						<Action Name="" ID="{67A0AB53-63E5-44E1-98A0-F860554637DC}" ShortID="622987732">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="2"/>
+								<Property Name="FadeOutCurve" Type="int16" Value="0"/>
+								<Property Name="FadeTime" Type="Real64" Value="1"/>
+								<Property Name="Scope" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="mus_trickfoolery_222bpm" ID="{B37367AF-76B6-4A5F-9DCF-A99818A4C5D4}" WorkUnitID="{5A323E93-18E1-483A-9D57-69701F8E5EEE}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_mus_Pause_75bpm" ID="{BCE1262A-3C14-4B31-B28C-4A64BEE31410}">
+					<ChildrenList>
+						<Action Name="" ID="{FC607F37-1DEC-408B-B743-CFEA6DFC4C65}" ShortID="854240317">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="mus_Pause_loop_75bpm" ID="{1C1A214D-2858-44C0-BF6D-6E4B9D257D7E}" WorkUnitID="{5A323E93-18E1-483A-9D57-69701F8E5EEE}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Mute_mus_pause_75bpm" ID="{0E96271C-B559-48D8-B09B-94D3489189FD}">
+					<ChildrenList>
+						<Action Name="" ID="{CAA872E2-3D55-4006-A6D6-BAB3A0279652}" ShortID="363332801">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="4"/>
+								<Property Name="FadeOutCurve" Type="int16" Value="2"/>
+								<Property Name="FadeTime" Type="Real64" Value="0.5"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="mus_Pause_loop_75bpm" ID="{1C1A214D-2858-44C0-BF6D-6E4B9D257D7E}" WorkUnitID="{5A323E93-18E1-483A-9D57-69701F8E5EEE}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Unmute_mus_pause_75bpm" ID="{C3E827C6-F5CC-4329-985D-E19D22E9E34A}">
+					<ChildrenList>
+						<Action Name="" ID="{9EB0AD47-A0B6-47DB-95A7-54137EAEC067}" ShortID="511545839">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="5"/>
+								<Property Name="Delay" Type="Real64" Value="0.5"/>
+								<Property Name="FadeInCurve" Type="int16" Value="2"/>
+								<Property Name="FadeTime" Type="Real64" Value="0.5"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="mus_Pause_loop_75bpm" ID="{1C1A214D-2858-44C0-BF6D-6E4B9D257D7E}" WorkUnitID="{5A323E93-18E1-483A-9D57-69701F8E5EEE}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="First_Time_Mute_mus_pause_75bpm" ID="{7288EC1A-8592-4957-B27E-E911D3B56F4A}">
+					<ChildrenList>
+						<Action Name="" ID="{0B847691-39EF-4FCE-9903-0647B7E8BB01}" ShortID="557679036">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="4"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="mus_Pause_loop_75bpm" ID="{1C1A214D-2858-44C0-BF6D-6E4B9D257D7E}" WorkUnitID="{5A323E93-18E1-483A-9D57-69701F8E5EEE}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_charger_lunge" ID="{34768769-7EB7-4C6B-A65A-4CB6AB2A5B55}">
+					<ChildrenList>
+						<Action Name="" ID="{9777DA81-4339-4E95-B14B-37AB802CF0CC}" ShortID="395577666">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="sfx_charger_lunge" ID="{360D8E44-B9C4-4B6B-93C0-4080FAA037A4}" WorkUnitID="{5A323E93-18E1-483A-9D57-69701F8E5EEE}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_sfx_tomstep" ID="{1BC515F3-568C-4A8D-995F-DBFA44FF9E2A}">
+					<ChildrenList>
+						<Action Name="" ID="{1236A7ED-86CA-4E04-8002-730D0DD4D5B5}" ShortID="1052015958">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="sfx_tom_footsteps" ID="{6BE7082B-60F3-49AA-BA17-A1E1CA8E76CE}" WorkUnitID="{5A323E93-18E1-483A-9D57-69701F8E5EEE}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_Alien_Arena_Assault_170bpm" ID="{8333E7FF-2074-4574-ADA6-3F3F7B5DA275}">
+					<ChildrenList>
+						<Action Name="" ID="{59F57B19-A68A-45FE-8FD9-E550283706A6}" ShortID="178524663">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Alien Arena Normal and Victory" ID="{95152A6C-A2BF-456C-B5B2-179C0E2FC335}" WorkUnitID="{5CD6933B-0773-453D-BFFC-5483B47741B7}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Trigger_GamePlay_State" ID="{0361A67B-0F8F-409B-8F7F-6091D370A099}"/>
+				<Event Name="Play_charger_angy" ID="{E480F771-7FFA-43EE-965C-E01524C26C0E}">
+					<ChildrenList>
+						<Action Name="" ID="{6C940BB2-3944-4943-9CAD-23A033B657F8}" ShortID="193149517">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="sfx_charger_anger" ID="{C31818E4-960D-4534-80EE-44A59276F6F4}" WorkUnitID="{5A323E93-18E1-483A-9D57-69701F8E5EEE}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_sfx_taunt" ID="{CD05A98D-2AF9-47E8-A5D9-08F5EE359AC0}">
+					<ChildrenList>
+						<Action Name="" ID="{CCE80E06-A9E7-42E2-AE42-D19464FA2F83}" ShortID="265030697">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="sfx_player_taunt" ID="{C808B20A-B7D8-428A-B5C3-8163B6968DE9}" WorkUnitID="{5A323E93-18E1-483A-9D57-69701F8E5EEE}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Mute_Alien_Arena_Assault_170bpm" ID="{D563AF20-5219-4CAB-9AEF-51C10825081B}">
+					<ChildrenList>
+						<Action Name="" ID="{9A203AF0-34EC-40C8-82F4-0C384A1D4D6C}" ShortID="239177169">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="4"/>
+								<Property Name="FadeOutCurve" Type="int16" Value="2"/>
+								<Property Name="FadeTime" Type="Real64" Value="0.5"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Alien Arena Normal and Victory" ID="{95152A6C-A2BF-456C-B5B2-179C0E2FC335}" WorkUnitID="{5CD6933B-0773-453D-BFFC-5483B47741B7}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Unmute_Alien_Arena_Assault_170bpm" ID="{33C4D4F4-E3D0-44A5-8C66-252F4F122C70}">
+					<ChildrenList>
+						<Action Name="" ID="{2FC50D3D-DC3D-490D-BE11-C8B18B4CA6F0}" ShortID="97522542">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="5"/>
+								<Property Name="Delay" Type="Real64" Value="0.5"/>
+								<Property Name="FadeInCurve" Type="int16" Value="2"/>
+								<Property Name="FadeTime" Type="Real64" Value="0.5"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Alien Arena Normal and Victory" ID="{95152A6C-A2BF-456C-B5B2-179C0E2FC335}" WorkUnitID="{5CD6933B-0773-453D-BFFC-5483B47741B7}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Stop_Alien_Arena_Assault_170bpm" ID="{9B4690B1-682D-4359-808E-AF7E56A972C3}">
+					<ChildrenList>
+						<Action Name="" ID="{83866EA6-9C91-4512-8018-34AD66D7BE90}" ShortID="41300731">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="2"/>
+								<Property Name="FadeOutCurve" Type="int16" Value="2"/>
+								<Property Name="FadeTime" Type="Real64" Value="0.5"/>
+								<Property Name="Scope" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Alien Arena Normal and Victory" ID="{95152A6C-A2BF-456C-B5B2-179C0E2FC335}" WorkUnitID="{5CD6933B-0773-453D-BFFC-5483B47741B7}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Stop_mus_pause_75bpm" ID="{B0A1E8C4-CBD5-4D2D-B416-98B9395C2181}">
+					<ChildrenList>
+						<Action Name="" ID="{65C70539-A20E-4C69-8D3D-D99914A50053}" ShortID="345742471">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="2"/>
+								<Property Name="Scope" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="mus_Pause_loop_75bpm" ID="{1C1A214D-2858-44C0-BF6D-6E4B9D257D7E}" WorkUnitID="{5A323E93-18E1-483A-9D57-69701F8E5EEE}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_mus_fool_trickery_93bpm" ID="{3AC1FDE6-8107-49E1-994D-5006507642AE}">
+					<ChildrenList>
+						<Action Name="" ID="{0F54FE97-A850-43BD-B9F9-13E9AA486C36}" ShortID="1006499887">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Fool Trickery 93bpm" ID="{F3B16E81-D6C3-447A-9184-B007F68BC921}" WorkUnitID="{5CD6933B-0773-453D-BFFC-5483B47741B7}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Stop_mus_fool_trickery_93bpm" ID="{0B2B49ED-ECE5-4847-8F1D-421D18125EB9}">
+					<ChildrenList>
+						<Action Name="" ID="{D92C158E-372A-40CD-917A-A74E915AEBC2}" ShortID="526239404">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="2"/>
+								<Property Name="FadeOutCurve" Type="int16" Value="1"/>
+								<Property Name="FadeTime" Type="Real64" Value="0.5"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Fool Trickery 93bpm" ID="{F3B16E81-D6C3-447A-9184-B007F68BC921}" WorkUnitID="{5CD6933B-0773-453D-BFFC-5483B47741B7}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_sfx_cutscene_dialogue_select" ID="{13E8CD07-7E38-4033-B83A-879ADD782D17}">
+					<ChildrenList>
+						<Action Name="" ID="{114EEF39-AA5C-4DFC-BB73-EEF4124E4312}" ShortID="990255681">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="sfx_cutscene_dialogue_select_tv" ID="{1B1A665F-F640-4296-8C7B-9C32E8C6FB82}" WorkUnitID="{5A323E93-18E1-483A-9D57-69701F8E5EEE}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_sfx_beefy_boy_dash" ID="{E4311F88-1DB9-4DA2-87A9-03079F4AC4E5}">
+					<ChildrenList>
+						<Action Name="" ID="{65150C02-D73D-4085-BC1D-283C05F65593}" ShortID="665184616">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="sfx_enemyBeefy_dash" ID="{92F6D997-C2BC-4E36-98F9-8804F6F05FCF}" WorkUnitID="{A08D4457-7BA1-4095-B157-374E936304F0}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>
